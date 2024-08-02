@@ -1,0 +1,21 @@
+:root{
+    --colorPrimario:#1F0D3F; /*AzulOscuro*/
+    --colorSecundario:  #6429CD; /*PurpleHeart*/
+    --colorTerciario: #9610FF; /*AzulMagenta*/
+    --colorCuaternario: #BB65FF; /**/
+    --colorQuinario: #E4A4FF; /**/
+    --colorSenario: #BDBDFF; /*lavandaAzul*/
+    --colorSeptenario: #000000; /*negro*/
+    --colorOctonario: #FFFFFF; /*Blanco*/
+    --subTitulo: 32px;
+    --letraEstandar: 16px;
+  }
+  
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Work Sans", sans-serif;
+  }
+  
+  
