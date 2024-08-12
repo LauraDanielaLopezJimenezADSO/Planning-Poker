@@ -1,0 +1,23 @@
+
+@import url(../../styles/globalStyles.css);
+.button-blanco {
+  width: Hug (159px)px;
+  height: Fixed (40px)px;
+  background-color: var(--colorOctonario);
+  top: 521px;
+  color: var(--colorPrimario);
+  left: 677px;
+  padding: 12px 24px;
+  gap: 10px;
+  border-radius: 50px;
+  opacity: 0px;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 16px;
+  text-align: center;
+
+}
+  
+.button-blanco:hover {
+    /* color: white; */
+}
