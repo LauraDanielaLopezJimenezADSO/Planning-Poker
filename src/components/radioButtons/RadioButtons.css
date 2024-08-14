@@ -1,0 +1,11 @@
+@import url(../../styles/globalStyles.css);
+
+.contenedor{
+    display: flex;
+}
+
+.radio{
+    width: 21px;
+    height: 21px;
+    border: 1px solid var(--colorCuaternario);
+}
